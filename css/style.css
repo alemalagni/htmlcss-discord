@@ -59,6 +59,7 @@ h2{
 
 .container.ht3 > .txt{
     background-image: url("../img/stars.svg");
+    background-size: cover;
     padding-top: 20px;
 }
 
@@ -71,7 +72,7 @@ section{
 /* utilities classes */
 .bg-1{
     background-image: url("../img/jumbo.png");
-
+    background-size: cover;
 }
 .bg-white{
     background-color: #FFFFFF;
