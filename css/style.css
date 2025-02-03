@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: white;
 }
 
@@ -57,7 +57,7 @@ h2{
 
 .small-box > span{
     color: #000000;
-    font-size: 26px;
+    font-size: 23px;
 }
 
 #small > div{
