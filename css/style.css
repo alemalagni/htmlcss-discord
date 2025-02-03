@@ -15,6 +15,14 @@
     margin: 0 auto;
 }
 
+.container > h2{
+    font-size: 40px;
+}
+
+.container > span{
+    font-size: 20px;
+}
+
 .container.due{
     display: flex;
 }
@@ -43,6 +51,7 @@ section{
 /* utilities classes */
 .bg-1{
     background-image: url("../img/jumbo.png");
+
 }
 .bg-white{
     background-color: #FFFFFF;
