@@ -44,6 +44,7 @@
 .big-box{
     background-color: #1D8FF2;
     flex-basis: 718px;
+    padding-bottom: 500px;
 }
 
 .small-box{
@@ -148,6 +149,7 @@ section{
 #big{
     background-color: #F08080;
     width: 50%;
+    padding-bottom: 500px;
 }
 
 #small{
