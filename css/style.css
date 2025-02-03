@@ -219,6 +219,8 @@ ul{
 }
 
 #big > div{
+    padding-top: 10px;
+    display: inline-block;
     padding-right: 25px;
 }
 
