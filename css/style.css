@@ -78,10 +78,10 @@ section{
 
 .nav > #login {
     text-align: right;
+    background-color: #ffffff;
 }
 
-#login > div{
-    background-color: #ffffff;
+#login > span{  
     color: #000000;
 }
 
