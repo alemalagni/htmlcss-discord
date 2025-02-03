@@ -36,10 +36,6 @@ h2{
     background-color: #000000;
 }
 
-.login.apri > span{
-    color:#ffffff
-}
-
 .big-box{
     flex-basis: 718px;
 }
@@ -94,6 +90,10 @@ section{
     color: #000000;
 }
 
+.bianco{
+    color: #ffffff;
+}
+
 /* Nav */
 .container.nav{
     display: flex;
@@ -120,14 +120,6 @@ section{
 
 .login.ichi{
     background-color: #7288da;
-}
-
-.login > span{  
-    color: #000000;
-}
-
-.login > i{
-    color: #000000;
 }
 
 /* Footer Nav */
