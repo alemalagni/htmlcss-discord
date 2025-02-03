@@ -41,8 +41,8 @@ section{
 }
 
 /* utilities classes */
-.bg-azure{
-    background-color: #ADD8E6;
+.bg-1{
+    background-image: url("../img/jumbo.png");
 }
 .bg-white{
     background-color: #FFFFFF;
