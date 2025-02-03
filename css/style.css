@@ -90,6 +90,10 @@ section{
     background-color: #23272A;
 }
 
+.nero{
+    color: #000000;
+}
+
 /* Nav */
 .container.nav{
     display: flex;
@@ -112,6 +116,10 @@ section{
     background-color: #ffffff;
     padding: 10px;
     border-radius: 30px;
+}
+
+.login.ichi{
+    background-color: #7288da;
 }
 
 .login > span{  
@@ -179,6 +187,7 @@ section{
 }
 
 h3{
+    background-image: url("../img/stars.svg");
     color: #000000;
     font-size: 30px;
 }
