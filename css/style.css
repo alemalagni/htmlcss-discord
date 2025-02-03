@@ -10,7 +10,7 @@
 /* common */
 .container{
     border: 1px dashed black;
-    height: 500px;
+    /*height: 500px;*/
     width: 1200px;
     margin: 0 auto;
 }
@@ -135,4 +135,10 @@ section{
 #small{
     display: flex;
     background-color: #20B2AA;
+}
+
+.primo{
+    width: 900px;
+    text-align: center;
+    margin: 210px;
 }
