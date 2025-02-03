@@ -129,8 +129,9 @@ section{
 
 .login.ichi{
     background-color: #7288da;
-    margin-top: 25px;
+    margin: 30px auto;
     text-align: center;
+    width: 25%;
 }
 
 /* Footer Nav */
