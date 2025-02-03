@@ -178,9 +178,13 @@ section{
     padding-bottom: 500px;
 }
 
-#small{
+.container > #small{
     display: flex;
+}
+
+#small > div{
     background-color: #20B2AA;
+    padding-left: 25px;
 }
 
 .primo{
