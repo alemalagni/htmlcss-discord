@@ -64,11 +64,8 @@ section{
 .container.nav{
     display: flex;
     align-items: center;
+    justify-content: space-around;
     height: 40px;
-}
-
-.nav > div{
-    flex-basis: 238px;
 }
 
 .nav > #link {
@@ -76,9 +73,15 @@ section{
     text-align: center;
 }
 
+#link > span{
+    padding: 10px;
+}
+
 .nav > #login {
     text-align: right;
     background-color: #ffffff;
+    padding: 10px;
+    border-radius: 30px;
 }
 
 #login > span{  
