@@ -166,7 +166,7 @@ section{
 
 #big{
     background-color: #F08080;
-    width: 50%;
+    width: 40%;
     padding-bottom: 500px;
 }
 
@@ -190,6 +190,10 @@ section{
     color: #000000;
 }
 
-h3{
+h4{
     font-size: 30px;
+}
+
+h3{
+    font-size: 40px;
 }
