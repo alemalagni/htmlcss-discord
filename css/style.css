@@ -209,3 +209,7 @@ h3{
 .ita{
     width: 10%;
 }
+
+ul{
+    list-style-type: none;
+}
