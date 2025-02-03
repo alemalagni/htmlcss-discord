@@ -1,0 +1,123 @@
+/* Selettore universale */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* common */
+.container{
+    border: 1px dashed black;
+    height: 500px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container.due{
+    display: flex;
+}
+
+.big-box{
+    background-color: #1D8FF2;
+    flex-basis: 718px;
+}
+
+.small-box{
+    background-color: #F2BBC9;
+    flex-basis: 476px;
+}
+
+#small > div{
+    border: 1px dotted white;
+    width: 150px;
+}
+
+/* section */
+section{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* utilities classes */
+.bg-azure{
+    background-color: #ADD8E6;
+}
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.bg-blue{
+    background-color: #030A8C;
+}
+
+.bg-gray{
+    background-color: #D3D3D3;
+}
+
+.bg-black{
+    background-color: #23272A;
+}
+
+/* Nav */
+.nav{
+    background-color: #D99923;
+    display: flex;
+    justify-content: center;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+
+.nav > div{
+    border: 1px dotted black;
+    flex-basis: 238px;
+}
+
+.nav > #link {
+    flex-basis: 718px;
+    text-align: center;
+}
+
+.nav > #login {
+    text-align: right;
+}
+
+/* Footer Nav */
+
+.nav-2{
+    background-color: #7FFFD4;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-2 > div{
+    border: 1px dashed black;
+    background-color: pink;
+}
+
+/* Unique */
+
+#box-1{
+    height: 400px;
+    background-color: #F088F2;
+    width: 900px;
+}
+
+#box-2{
+    height: 900px;
+    background-color: #228B22;
+}
+
+#big{
+    background-color: #F08080;
+    width: 50%;
+}
+
+#small{
+    display: flex;
+    background-color: #20B2AA;
+}
