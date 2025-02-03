@@ -103,6 +103,10 @@ section{
     color: #ffffff;
 }
 
+.viola{
+    color: #7288da;
+}
+
 /* Nav */
 .container.nav{
     display: flex;
@@ -166,7 +170,7 @@ section{
 
 #big{
     background-color: #F08080;
-    width: 40%;
+    width: 35%;
     padding-bottom: 500px;
 }
 
