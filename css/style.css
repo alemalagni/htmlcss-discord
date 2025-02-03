@@ -165,6 +165,10 @@ section{
     width: 35%;
 }
 
+#big > div{
+    padding-bottom: 15px;
+}
+
 .container > #small{
     display: flex;
 }
