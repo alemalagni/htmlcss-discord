@@ -54,11 +54,6 @@ h2{
     font-size: 23px;
 }
 
-#small > div{
-    border: 1px dotted white;
-    width: 150px;
-}
-
 .container.ht3{
     width: 60%;
 }
@@ -182,6 +177,7 @@ section{
 
 #small > div{
     margin-left: 25px;
+    width: 150px;
 }
 
 .primo{
