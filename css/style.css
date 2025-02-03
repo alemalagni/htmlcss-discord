@@ -28,6 +28,12 @@
     display: flex;
 }
 
+.container.due.bottoni{
+    justify-content: space-around;
+}
+
+
+
 .big-box{
     background-color: #1D8FF2;
     flex-basis: 718px;
@@ -87,14 +93,18 @@ section{
     padding: 10px;
 }
 
-.nav > #login {
+.login {
     text-align: right;
     background-color: #ffffff;
     padding: 10px;
     border-radius: 30px;
 }
 
-#login > span{  
+.login > span{  
+    color: #000000;
+}
+
+.login > i{
     color: #000000;
 }
 
@@ -141,5 +151,6 @@ section{
 .primo{
     width: 900px;
     text-align: center;
-    margin: 150px;
+    margin-top: 150px;
+    margin-bottom: 20px;
 }
