@@ -62,14 +62,12 @@ section{
 
 /* Nav */
 .container.nav{
-    background-color: #D99923;
     display: flex;
     align-items: center;
     height: 40px;
 }
 
 .nav > div{
-    border: 1px dotted black;
     flex-basis: 238px;
 }
 
@@ -80,6 +78,11 @@ section{
 
 .nav > #login {
     text-align: right;
+}
+
+#login > div{
+    background-color: #ffffff;
+    color: #000000;
 }
 
 /* Footer Nav */
