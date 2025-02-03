@@ -29,7 +29,8 @@
 }
 
 .container.due.bottoni{
-    justify-content: space-around;
+    justify-content: space-evenly;
+    width: 900px;
 }
 
 .login.apri{
