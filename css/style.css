@@ -59,6 +59,15 @@ h2{
     width: 150px;
 }
 
+.container.ht3{
+    width: 60%;
+}
+
+.container.ht3 > .txt{
+    background-image: url("../img/stars.svg");
+    padding-top: 20px;
+}
+
 /* section */
 section{
     padding-top: 15px;
@@ -120,6 +129,8 @@ section{
 
 .login.ichi{
     background-color: #7288da;
+    margin-top: 25px;
+    text-align: center;
 }
 
 /* Footer Nav */
@@ -179,7 +190,5 @@ section{
 }
 
 h3{
-    background-image: url("../img/stars.svg");
-    color: #000000;
     font-size: 30px;
 }
