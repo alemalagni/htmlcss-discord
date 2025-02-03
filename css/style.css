@@ -217,3 +217,11 @@ h3{
 ul{
     list-style-type: none;
 }
+
+#big > div{
+    padding-right: 25px;
+}
+
+#big > div > i{
+    font-size: 25px;
+}
