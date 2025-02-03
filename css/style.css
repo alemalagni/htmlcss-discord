@@ -236,3 +236,7 @@ ul > li{
 #big > div > i{
     font-size: 25px;
 }
+
+footer > section{
+    padding-top: 25px;
+}
