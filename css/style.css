@@ -16,11 +16,12 @@
 }
 
 .container > h2{
-    font-size: 40px;
+    font-size: 50px;
+    padding-bottom: 50px;
 }
 
 .container > span{
-    font-size: 20px;
+    font-size: 26px;
 }
 
 .container.due{
