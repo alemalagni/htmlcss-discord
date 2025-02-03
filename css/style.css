@@ -147,7 +147,7 @@ section{
     justify-content: space-between;
     width: 1200px;
     margin: 0 auto;
-    border-color: 1px solid #7288da;
+    border-top: 1px solid #7288da;
 }
 
 .nav-2 > div{
