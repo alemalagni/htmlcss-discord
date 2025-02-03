@@ -218,13 +218,13 @@ ul > li{
     padding-bottom: 10px;
 }
 
-#big > div{
+#big > div > div{
     padding-top: 10px;
     display: inline-block;
     padding-right: 25px;
 }
 
-#big > div > i{
+#big > div > div > i{
     font-size: 25px;
 }
 
