@@ -32,7 +32,13 @@
     justify-content: space-around;
 }
 
+.login.apri{
+    background-color: #000000;
+}
 
+.login.apri > span{
+    color:#ffffff
+}
 
 .big-box{
     background-color: #1D8FF2;
