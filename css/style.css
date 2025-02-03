@@ -61,12 +61,11 @@ section{
 }
 
 /* Nav */
-.nav{
+.container.nav{
     background-color: #D99923;
     display: flex;
-    justify-content: center;
-    margin-left: 360px;
-    margin-right: 360px;
+    align-items: center;
+    height: 40px;
 }
 
 .nav > div{
