@@ -234,3 +234,9 @@ ul > li{
 footer > section{
     padding-top: 25px;
 }
+
+.nav-2 > .login.ichi.bottone{
+    margin: 0px;
+    width: auto;
+    padding: 15px;
+}
