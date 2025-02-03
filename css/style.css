@@ -107,6 +107,10 @@ section{
     color: #7288da;
 }
 
+.bold{
+    font-weight: bold;
+}
+
 /* Nav */
 .container.nav{
     display: flex;
