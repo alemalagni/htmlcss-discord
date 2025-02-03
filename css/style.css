@@ -92,7 +92,7 @@ section{
 }
 
 .bg-black{
-    background-color: #23272A;
+    background-color: #23272a;
 }
 
 .nero{
@@ -173,9 +173,7 @@ section{
 
 
 #big{
-    background-color: #F08080;
     width: 35%;
-    padding-bottom: 500px;
 }
 
 .container > #small{
@@ -183,7 +181,6 @@ section{
 }
 
 #small > div{
-    background-color: #20B2AA;
     margin-left: 25px;
 }
 
